@@ -1,7 +1,7 @@
 <p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
 
 --------------------------------------------------------------------------------
-
+ORIGINAL TUTORIALS REPO BY ALADDIN PERSSON : https://github.com/aladdinpersson/Machine-Learning-Collection
 
 [![Build Status](https://travis-ci.com/aladdinpersson/Machine-Learning-Collection.svg?branch=master)](https://travis-ci.com/aladdinpersson/Machine-Learning-Collection) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
