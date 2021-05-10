@@ -9,6 +9,8 @@ Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
 *    2020-04-09 Initial coding
 """
 
+# SEE PERSONAL COLAB NOTEBOOK FOR MORE REFERENCE
+
 # Imports
 import torch
 import torch.nn as nn  # All neural network modules, nn.Linear, nn.Conv2d, BatchNorm, Loss functions
